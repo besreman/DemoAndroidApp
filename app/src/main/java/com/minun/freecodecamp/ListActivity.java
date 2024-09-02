@@ -6,6 +6,7 @@ import android.widget.Button;
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
+// so simple list activity.
 public class ListActivity extends AppCompatActivity {
 
     @Override
